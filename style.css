@@ -1,0 +1,63 @@
+body {
+    padding: 60;
+    margin: 40;
+} 
+
+#header, #footer {
+	width: 100%;
+    text-align: center;
+    background: #6497e8;
+    padding: 10px 0;
+}
+
+#header {
+    top: 0;
+}
+
+h1 {
+    font-family: 'Faster One', cursive;
+    font-size: 60px;
+}
+
+h2 {
+    font-family: 'Amatic SC', cursive;
+}
+
+#main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#story {
+    font-family: 'News Cycle', sans-serif;
+}
+
+#sketch {
+    display: block; 
+    padding-bottom: 2em;
+}
+
+#video {
+    font-size: 20px;
+}
+
+#video.a {
+    text-decoration: none;
+}
+
+#footer{
+    bottom: 0;
+}
+
+
+/*p{width:750px;}
+the next rule centers and spaces the media*/
+
+#credits{
+    font-size: 0.5em;
+    color: rgb(200,200,200);
+}
+
+
+/*p5.js sketch holder test*/
+
